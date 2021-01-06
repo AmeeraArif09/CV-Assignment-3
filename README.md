@@ -16,4 +16,4 @@ VGGnet CNN architecture is used in Keras. The different training settings, netwo
 [1.]: http://www.reddit.com
 [2.]: http://www.reddit.com
 [3.]: http://www.reddit.com
-[4.]: http://www.reddit.com
+[4.]: https://github.com/AmeeraArif09/CV-Assignment-3/blob/main/CV_A3(Transfer_learning_%2B_augmented_complete).ipynb
