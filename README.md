@@ -5,9 +5,17 @@ VGGnet CNN architecture is used in Keras
 
 
 [VGGnet is built from scratch and is trained on Intel image classification dataset. Using different parameters to get best training accuracy of 99%] \
+
 [VGGnet is built from scratch and is trained on augmented Intel image classification dataset. Using different parameters to get best training accuracy of 99%] \
+
 [Pre-implemented VGGnet is used on Intel image classification dataset with Transfer learning technique. Using different parameters to get best training accuracy of 99%] \
-[Pre-implemented VGGnet is used on augmented Intel image classification dataset with Transfer learning technique. Using different parameters to get best training accuracy of 99%] \
+
+[Pre-implemented VGGnet is used on augmented Intel image classification dataset with Transfer learning technique. Using different parameters to get best training accuracy of 99%]\ 
+
+
+The different traininf settings, network diagrams, confusion matrics, graphs of training and validation losses and accuracies are shown in each code.
+
+
 
 [VGGnet is built from scratch and is trained on Intel image classification dataset. Using different parameters to get best training accuracy of 99%]: http://www.reddit.com
 [VGGnet is built from scratch and is trained on augmented Intel image classification dataset. Using different parameters to get best training accuracy of 99%]: http://www.reddit.com
