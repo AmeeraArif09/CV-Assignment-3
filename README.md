@@ -99,6 +99,15 @@ The training and validation accuracy plot showing all experimentations is:
 ![all l,a crop aug](https://user-images.githubusercontent.com/36454438/103899396-2793e180-5118-11eb-8d4d-7cd5135bdb15.png)
 
 
+
+The The result of trained model is visualized in following figure which shows that the test labels have been correctly predicted and hence our model is accurately classifying images of dataset.
+
+
+![inference](https://user-images.githubusercontent.com/36454438/103930676-f085f600-5140-11eb-904d-db1060eb6682.png)
+
+
+
+
 [1.]: https://github.com/AmeeraArif09/CV-Assignment-3/blob/main/Codes/cvA3(selfmade_with_origdata_complete%20FINAL.ipynb
 [2.]: https://github.com/AmeeraArif09/CV-Assignment-3/blob/main/Codes/cvA3self_made_image_augmentation%20FINAL.ipynb
 [3.]: https://github.com/AmeeraArif09/CV-Assignment-3/blob/main/Codes/cvA3%20TRANSFER_LEARNING_FINAL.ipynb
