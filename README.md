@@ -13,7 +13,7 @@ VGGnet CNN architecture is used in Keras. The different training settings, netwo
 [4.] Pre-implemented VGGnet is used on augmented Intel image classification dataset with Transfer learning technique. Using different parameters to get best training accuracy of 99% 
 
 
-[1.]: http://www.reddit.com
+[1.]: https://github.com/AmeeraArif09/CV-Assignment-3/blob/main/cvA3(selfmade_with_origdata)%20FINAL.ipynb
 [2.]: http://www.reddit.com
 [3.]: http://www.reddit.com
 [4.]: https://github.com/AmeeraArif09/CV-Assignment-3/blob/main/CV_A3(Transfer_learning_%2B_augmented_complete).ipynb
