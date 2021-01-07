@@ -6,13 +6,24 @@ VGGnet CNN architecture is used in Keras. The different training settings, netwo
 
 [1.] VGGnet is built from scratch and is trained on Intel image classification dataset. Using different parameters to get best 
 training accuracy of 96.20%
+
 validation accuracy of 80.63%
+
 test accuracy of 79.23%
 
-The training and calidation accuracy plot of this part is:
+The training and validation accuracy plot of this part is:
 
 
 ![self_made_best_plot](https://user-images.githubusercontent.com/36454438/103892646-bb13e500-510d-11eb-95ca-40888637bcac.png)
+
+The training and validation accuracy plot showing all experimentations is:
+
+
+
+![self made all](https://user-images.githubusercontent.com/36454438/103893013-586f1900-510e-11eb-8225-4771144df14b.png)
+
+
+
 
 [2.] VGGnet is built from scratch and is trained on augmented Intel image classification dataset. Using different parameters to get best training accuracy of 99%
 
