@@ -100,7 +100,7 @@ The training and validation accuracy plot showing all experimentations is:
 
 
 
-The The result of trained model is visualized in following figure which shows that the test labels have been correctly predicted and hence our model is accurately classifying images of dataset.
+The result of trained model is visualized in following figure which shows that the test labels have been correctly predicted and hence our model is accurately classifying images of dataset.
 
 
 ![inference](https://user-images.githubusercontent.com/36454438/103930676-f085f600-5140-11eb-904d-db1060eb6682.png)
