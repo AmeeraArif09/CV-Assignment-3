@@ -4,9 +4,14 @@ Implementation of an image classification pipeline using CNN to classify the nat
 VGGnet CNN architecture is used in Keras. The different training settings, network diagrams, confusion matrics, graphs of training and validation losses and accuracies are shown in each code.
 
 
-[1.] VGGnet is built from scratch and is trained on Intel image classification dataset. Using different parameters to get best training accuracy of 99%
+[1.] VGGnet is built from scratch and is trained on Intel image classification dataset. Using different parameters to get best 
+training accuracy of 96.20%
+validation accuracy of 80.63%
+test accuracy of 79.23%
 
 The training and calidation accuracy plot of this part is:
+
+
 ![self_made_best_plot](https://user-images.githubusercontent.com/36454438/103892646-bb13e500-510d-11eb-95ca-40888637bcac.png)
 
 [2.] VGGnet is built from scratch and is trained on augmented Intel image classification dataset. Using different parameters to get best training accuracy of 99%
