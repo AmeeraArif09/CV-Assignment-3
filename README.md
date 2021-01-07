@@ -55,7 +55,7 @@ training accuracy of 70.55%
 
 validation accuracy of 69.80%
 
-test accuracy of 72.46%
+test accuracy of 72.33%
 
 The training and validation accuracy plot showing best results is:
 
@@ -70,7 +70,24 @@ The training and validation accuracy plot showing all experimentations is:
 
 
 
-[4.] Pre-implemented VGGnet is used on augmented Intel image classification dataset with Transfer learning technique. Using different parameters to get best training accuracy of 99% 
+[4.] Pre-implemented VGGnet is used on augmented Intel image classification dataset with Transfer learning technique. Using different parameters to get best
+
+training accuracy of 76.90% 
+
+
+validation accuracy of 74.23%
+
+test accuracy of 72.48%
+
+The training and validation accuracy plot using augmentation and showing best results is:
+
+
+![SGD l,a plot crop](https://user-images.githubusercontent.com/36454438/103899346-18149880-5118-11eb-907c-786c6a474d33.png)
+
+
+The training and validation accuracy plot showing all experimentations is:
+
+![all l,a crop aug](https://user-images.githubusercontent.com/36454438/103899396-2793e180-5118-11eb-8d4d-7cd5135bdb15.png)
 
 
 [1.]: https://github.com/AmeeraArif09/CV-Assignment-3/blob/main/Codes/cvA3(selfmade_with_origdata_complete%20FINAL.ipynb
