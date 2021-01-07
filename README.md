@@ -48,7 +48,27 @@ The training and validation accuracy plot showing all experimentations is:
 
 
 
-[3.] Pre-implemented VGGnet is used on Intel image classification dataset with Transfer learning technique. Using different parameters to get best training accuracy of 99% 
+[3.] Pre-implemented VGGnet is used on Intel image classification dataset with Transfer learning technique. Using different parameters to get best  
+
+training accuracy of 70.55% 
+
+
+validation accuracy of 69.80%
+
+test accuracy of 72.46%
+
+The training and validation accuracy plot showing best results is:
+
+
+![transfer learning best plot](https://user-images.githubusercontent.com/36454438/103896720-38daef00-5114-11eb-95d9-609354c9f117.png)
+
+
+The training and validation accuracy plot showing all experimentations is:
+
+
+![transfer learning all plots](https://user-images.githubusercontent.com/36454438/103896884-7dff2100-5114-11eb-84db-cee365f91982.png)
+
+
 
 [4.] Pre-implemented VGGnet is used on augmented Intel image classification dataset with Transfer learning technique. Using different parameters to get best training accuracy of 99% 
 
