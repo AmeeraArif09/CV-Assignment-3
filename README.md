@@ -7,9 +7,9 @@ VGGnet CNN architecture is used in Keras. The different training settings, netwo
 [1.] VGGnet is built from scratch and is trained on Intel image classification dataset. Using different parameters to get best 
 training accuracy of 96.20%
 
-validation accuracy of 80.63%
+validation accuracy of 80.59%
 
-test accuracy of 79.23%
+test accuracy of 78.67%
 
 The training and validation accuracy plot of this part is:
 
@@ -25,14 +25,35 @@ The training and validation accuracy plot showing all experimentations is:
 
 
 
-[2.] VGGnet is built from scratch and is trained on augmented Intel image classification dataset. Using different parameters to get best training accuracy of 99%
+[2.] VGGnet is built from scratch and is trained on augmented Intel image classification dataset. Using different parameters to get best 
+training accuracy of 97.03% 
+
+
+validation accuracy of 80.63%
+
+test accuracy of 79.23%
+
+The training and validation accuracy plot of this part is:
+
+
+![self made best plot image aug](https://user-images.githubusercontent.com/36454438/103893305-f367f300-510e-11eb-9df0-ab8fa6c3fe88.png)
+
+
+The training and validation accuracy plot showing all experimentations is:
+
+
+
+![self made image aug all](https://user-images.githubusercontent.com/36454438/103893322-fa8f0100-510e-11eb-8722-4f21cf26c435.png)
+
+
+
 
 [3.] Pre-implemented VGGnet is used on Intel image classification dataset with Transfer learning technique. Using different parameters to get best training accuracy of 99% 
 
 [4.] Pre-implemented VGGnet is used on augmented Intel image classification dataset with Transfer learning technique. Using different parameters to get best training accuracy of 99% 
 
 
-[1.]: https://github.com/AmeeraArif09/CV-Assignment-3/blob/main/cvA3(selfmade_with_origdata)%20FINAL.ipynb
-[2.]: http://www.reddit.com
+[1.]: https://github.com/AmeeraArif09/CV-Assignment-3/blob/main/Codes/cvA3(selfmade_with_origdata_complete%20FINAL.ipynb
+[2.]: https://github.com/AmeeraArif09/CV-Assignment-3/blob/main/Codes/cvA3self_made_image_augmentation%20FINAL.ipynb
 [3.]: http://www.reddit.com
 [4.]: https://github.com/AmeeraArif09/CV-Assignment-3/blob/main/CV_A3(Transfer_learning_%2B_augmented_complete).ipynb
